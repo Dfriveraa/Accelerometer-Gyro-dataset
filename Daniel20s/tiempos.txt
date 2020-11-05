@@ -1,0 +1,6 @@
+aproximación de la posición enque empieza el gesto
+1----520
+2----700
+3----300
+4----440
+5----300 y 700, en este hice el gesto dos veces
